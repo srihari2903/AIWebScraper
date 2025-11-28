@@ -1,0 +1,91 @@
+# ------------------------
+# OS
+# ------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ------------------------
+# Editors & IDEs
+# ------------------------
+# VS Code
+.vscode/
+
+# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# ------------------------
+# Node / JavaScript
+# ------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+env/
+venv/
+ENV/
+.venv/
+
+# ------------------------
+# Java
+# ------------------------
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# ------------------------
+# Logs & temp files
+# ------------------------
+*.log
+logs/
+*.tmp
+*.temp
+
+# ------------------------
+# Build outputs
+# ------------------------
+dist/
+build/
+out/
+
+# ------------------------
+# Environment / secrets
+# ------------------------
+.env
+.env.*
+*.key
+*.pem
+
+# ------------------------
+# Misc
+# ------------------------
+coverage/
+.cache/
+.tmp/
+.idea/
